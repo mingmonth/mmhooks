@@ -1,0 +1,25 @@
+{
+  "name": "@mmhooks/usetitle",
+  "version": "1.0.0",
+  "description": "React Hook to update your document's title.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mingmonth/mmhooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title"
+  ],
+  "author": "mingmonth <ys9922@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mingmonth/mmhooks/issues"
+  },
+  "homepage": "https://github.com/mingmonth/mmhooks#readme",
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
